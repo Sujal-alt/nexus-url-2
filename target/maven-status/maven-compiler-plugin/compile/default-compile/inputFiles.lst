@@ -1,0 +1,5 @@
+/home/ubuntu/nexus-url/src/main/java/com/example/urlshortener/UrlShortenerApplication.java
+/home/ubuntu/nexus-url/src/main/java/com/example/urlshortener/service/UrlService.java
+/home/ubuntu/nexus-url/src/main/java/com/example/urlshortener/model/Url.java
+/home/ubuntu/nexus-url/src/main/java/com/example/urlshortener/repository/UrlRepository.java
+/home/ubuntu/nexus-url/src/main/java/com/example/urlshortener/controller/UrlController.java
